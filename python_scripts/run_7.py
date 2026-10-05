@@ -1,0 +1,3 @@
+temp_cel = int(input("Enter temperature in Celsius: "))
+temp_fah = (temp_cel * 9/5) + 32
+print(temp_fah)
